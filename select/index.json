@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ネズミの花嫁",
+  "base_artist": "PompadollS",
+  "createdAt": "2025-12-17T13:13:08.298625Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネズミの花嫁",
+      "artist": "PompadollS",
+      "has_synced": false,
+      "path": "select/pl_01_ネズミの花嫁_PompadollS.txt"
+    }
+  ]
+}
